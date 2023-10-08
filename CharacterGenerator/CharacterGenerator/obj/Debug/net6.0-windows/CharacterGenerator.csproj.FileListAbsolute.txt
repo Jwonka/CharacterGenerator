@@ -1,0 +1,50 @@
+C:\NET\Module 3\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0-windows\CharacterGenerator.exe
+C:\NET\Module 3\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0-windows\CharacterGenerator.deps.json
+C:\NET\Module 3\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0-windows\CharacterGenerator.runtimeconfig.json
+C:\NET\Module 3\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0-windows\CharacterGenerator.dll
+C:\NET\Module 3\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0-windows\CharacterGenerator.pdb
+C:\NET\Module 3\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.csproj.AssemblyReference.cache
+C:\NET\Module 3\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.CharacterGeneratorForm.resources
+C:\NET\Module 3\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.csproj.GenerateResource.cache
+C:\NET\Module 3\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET\Module 3\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.AssemblyInfoInputs.cache
+C:\NET\Module 3\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.AssemblyInfo.cs
+C:\NET\Module 3\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.csproj.CoreCompileInputs.cache
+C:\NET\Module 3\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.dll
+C:\NET\Module 3\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\refint\CharacterGenerator.dll
+C:\NET\Module 3\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.pdb
+C:\NET\Module 3\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.genruntimeconfig.cache
+C:\NET\Module 3\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\ref\CharacterGenerator.dll
+C:\Users\kloewenhagen\OneDrive\OneDrive - Chippewa Valley Technical College\Desktop\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0-windows\CharacterGenerator.exe
+C:\Users\kloewenhagen\OneDrive\OneDrive - Chippewa Valley Technical College\Desktop\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0-windows\CharacterGenerator.deps.json
+C:\Users\kloewenhagen\OneDrive\OneDrive - Chippewa Valley Technical College\Desktop\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0-windows\CharacterGenerator.runtimeconfig.json
+C:\Users\kloewenhagen\OneDrive\OneDrive - Chippewa Valley Technical College\Desktop\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0-windows\CharacterGenerator.dll
+C:\Users\kloewenhagen\OneDrive\OneDrive - Chippewa Valley Technical College\Desktop\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0-windows\CharacterGenerator.pdb
+C:\Users\kloewenhagen\OneDrive\OneDrive - Chippewa Valley Technical College\Desktop\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.csproj.AssemblyReference.cache
+C:\Users\kloewenhagen\OneDrive\OneDrive - Chippewa Valley Technical College\Desktop\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.CharacterGeneratorForm.resources
+C:\Users\kloewenhagen\OneDrive\OneDrive - Chippewa Valley Technical College\Desktop\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.csproj.GenerateResource.cache
+C:\Users\kloewenhagen\OneDrive\OneDrive - Chippewa Valley Technical College\Desktop\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kloewenhagen\OneDrive\OneDrive - Chippewa Valley Technical College\Desktop\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.AssemblyInfoInputs.cache
+C:\Users\kloewenhagen\OneDrive\OneDrive - Chippewa Valley Technical College\Desktop\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.AssemblyInfo.cs
+C:\Users\kloewenhagen\OneDrive\OneDrive - Chippewa Valley Technical College\Desktop\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.csproj.CoreCompileInputs.cache
+C:\Users\kloewenhagen\OneDrive\OneDrive - Chippewa Valley Technical College\Desktop\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.dll
+C:\Users\kloewenhagen\OneDrive\OneDrive - Chippewa Valley Technical College\Desktop\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\refint\CharacterGenerator.dll
+C:\Users\kloewenhagen\OneDrive\OneDrive - Chippewa Valley Technical College\Desktop\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.pdb
+C:\Users\kloewenhagen\OneDrive\OneDrive - Chippewa Valley Technical College\Desktop\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.genruntimeconfig.cache
+C:\Users\kloewenhagen\OneDrive\OneDrive - Chippewa Valley Technical College\Desktop\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\ref\CharacterGenerator.dll
+C:\.NET\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0-windows\CharacterGenerator.exe
+C:\.NET\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0-windows\CharacterGenerator.deps.json
+C:\.NET\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0-windows\CharacterGenerator.runtimeconfig.json
+C:\.NET\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0-windows\CharacterGenerator.dll
+C:\.NET\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0-windows\CharacterGenerator.pdb
+C:\.NET\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.CharacterGeneratorForm.resources
+C:\.NET\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.csproj.GenerateResource.cache
+C:\.NET\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.AssemblyInfoInputs.cache
+C:\.NET\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.AssemblyInfo.cs
+C:\.NET\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.csproj.CoreCompileInputs.cache
+C:\.NET\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.dll
+C:\.NET\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\refint\CharacterGenerator.dll
+C:\.NET\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.pdb
+C:\.NET\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\CharacterGenerator.genruntimeconfig.cache
+C:\.NET\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0-windows\ref\CharacterGenerator.dll
